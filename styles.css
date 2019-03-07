@@ -1,0 +1,21 @@
+.kicker {
+    display: none;
+    width: 400px;
+}
+.offense {
+    width: 400px;
+    display: none;
+}
+.getting-ready {
+    display: none;
+    width: 400px;
+    height: 440px;
+}
+.missed-kick {
+    display: none;
+    width: 400px;
+    height: 240px;
+}
+.locker-room {
+    display: none;
+}
